@@ -7,8 +7,9 @@ O projeto tem como objetivo treinar estruturação de páginas, estilização e
 organização de arquivos no desenvolvimento front-end.
 
 ## 🛠️ Tecnologias utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
+- JavaScript
 
 ## 🎯 Funcionalidades
 - Interface visual (front-end)
