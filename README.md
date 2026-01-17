@@ -1,4 +1,4 @@
-# 🌐 Landing Page – Fanta
+# 🌐 Landing Page – Fanta:
 
 Landing page front-end desenvolvida durante o **curso Rei dos Sites**, ministrado por **Herbert**,
 com foco na prática de **HTML e CSS**, seguindo as instruções do professor.
